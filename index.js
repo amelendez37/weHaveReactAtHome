@@ -173,7 +173,7 @@ class Component {
   }
 }
 
-class SimpleComponent extends Component() {
+class SimpleComponent extends Component {
   render() {
     return (
       <div>
